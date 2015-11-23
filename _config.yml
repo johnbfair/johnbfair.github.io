@@ -12,7 +12,7 @@ url: "https://johnbfair.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-# baseurl: 
+# baseurl:
 
 # Google tracking id to track your visitors
 
@@ -28,9 +28,9 @@ force-https: True
 # HTML Head #
 #############
 
-author: "John B Fair"
+author: "john b fair"
 lang: "en"
-title: "{ John B Fair }"
+title: "{ john b fair }"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John B Fair, blogging mainly for tech. Opinions expressed are mine."
 keywords: "fair, john, johnbfair"
@@ -41,7 +41,7 @@ keywords: "fair, john, johnbfair"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/bg_0.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -124,10 +124,10 @@ email: "johnbfair@gmail.com"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/johnbfair"
   - title: "github"
     url: "https://github.com/johnbfair"
   - title: "rss"
