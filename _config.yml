@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Whatever life hands you...Stand Up. Suit Up. Show Up."
-  - text: "Your character is defined by how you react when the chips are <em>down</em>."
+  - text: "Whatever life hands you...<b>Stand Up. Suit Up. Show Up.</b>"
+  - text: "Your character is defined by how you react when the chips are <i>down</i>."
   - text: "We all start to learn about our world with appearances, but we end with substance."
   - text: "Knowing what drives youself to growth will help you drive it in others."
   - text: "There's no shortcut to leveling up."
