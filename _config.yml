@@ -33,7 +33,7 @@ lang: "en"
 title: "{ john b fair }"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John B Fair, blogging mainly for tech. Opinions expressed are mine."
-keywords: "fair, john, johnbfair"
+keywords: "fair, john, johnbfair, F#, fsharp, dot net, .net, leadership, mentorship, leader"
 
 ################
 # Header layout #
@@ -102,31 +102,31 @@ disqus-shortname: "botanist"
 ###############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/servant-leader.png"
     date: "current"
     description: "Focused on leveling up as a leader, and growing other leaders along the way"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/sa.png"
     date: "2014 - present"
     description: "Created Solution Architecture at Quicken Loans, have been leading the team ever since"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/ql.png"
     date: "2012 - 2014"
     description: "Sr. Software Engineer and eventually Software Architect at Quicken Loans"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/cmp.png"
     date: "2008 - 2012"
     description: "Sr Software Engineer at Centurion Medical Products"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/eds.png"
     date: "2007 - 2008"
     description: "Moved back to MI, gave EDS a shot"
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/baytree.png"
     date: "2005 - 2007"
     description: "First programming job at Baytree Home Mortgage"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/wells-fargo.png"
     date: "2002 - 2005"
     description: "Learned a ton about the mortgage industry at Wells Fargo"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/SearsTower.png"
 
 ##################
 # Contact layout #
