@@ -147,13 +147,13 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+#  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
 
-exclude: ["LICENSE", "README", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "blog"]
+exclude: ["LICENSE", "README", "CONTRIBUTING", "CONTRIBUTORS", "scripts", "_posts"]
 
 # Pagination path
 
